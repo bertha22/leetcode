@@ -1,4 +1,4 @@
-package test;
+package cn.edu.tsinghua;
 
 public class StringReversse {
 
